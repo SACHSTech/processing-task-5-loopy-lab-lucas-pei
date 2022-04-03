@@ -1,5 +1,8 @@
 import processing.core.PApplet;
-
+/** 
+ * Description: A program that uses loops to draw a drawing
+ * @author: L. Pei
+*/
 public class Sketch extends PApplet {
 	
 	
